@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "WinProcessMonitor": {
+      "commandName": "Project",
+      "commandLineArgs": "notepad 1 1"
+    }
+  }
+}
